@@ -1,2 +1,7 @@
 flask
+pandas
+gunicorn
 numpy
+opencv-python
+tensorflow==1.12.0
+keras
