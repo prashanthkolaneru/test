@@ -1,9 +1,0 @@
-flask
-pandas
-gunicorn
-numpy
-matplotlib
-pillow
-jsonpickle
-pybase64
-opencv-python
