@@ -1,0 +1,7 @@
+flask
+werkzeug==0.15.5
+numpy
+imutils
+opencv-python
+h5py
+Pillow
