@@ -6,5 +6,4 @@ opencv-python
 h5py
 Pillow
 gunicorn
-gunicorn==19.9.0
 tensorflow===1.12.0
