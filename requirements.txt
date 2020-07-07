@@ -3,12 +3,3 @@ pandas
 gunicorn
 numpy
 matplotlib
-libsm6
-libxrender1
-libfontcong1
-libice6
-pillow
-jsonpickle
-pybase64
-opencv-python
-xgboost
