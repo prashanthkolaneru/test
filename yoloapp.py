@@ -8,9 +8,9 @@ import uuid
 import time
 import os
 
-config_path='data/yolov3.cfg'
-weights_path='data/yolov3_31000.weights'
-names_path='data/obj.names'
+config_path='yolov3.cfg'
+weights_path='yolov3_31000.weights'
+names_path='obj.names'
 
 UPLOAD_FOLDER = 'uploads'
 TEST_FOLDER = 'test'
